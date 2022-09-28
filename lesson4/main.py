@@ -28,7 +28,8 @@ if "зовут" in txt:
 
 age = 18
 
-print("My age is {}".format(age, "OK"))
+print("My age is {}".format(age, "OK"))```
+
 import random
 num1 = 0
 num2 = random.randint(0, 10)
@@ -42,6 +43,6 @@ while num1 != num2:
     elif num1 > num2:
         print("Нужно меньше")
 print("Game over")
-'''
+
 
 
